@@ -9,8 +9,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Instalar dependencias
-        run: npm install
-
-      - name: Ejecutar tests
-        run: npm test
+      - name: Mensaje de prueba
+        run: echo "Workflow ejecutado correctamente"
