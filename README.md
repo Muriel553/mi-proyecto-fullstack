@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Mi Pddsdroyecto Fullstack
+# Mi Fullstack
 =======
 # Mi Proyecto Fullstack
 
